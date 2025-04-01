@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    height: 50px;
+    width: 70px;
+}
+.menu{
+    border-radius: 10px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(53, 53, 209);
+}
+.menuzin{
+    width: 180px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
